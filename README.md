@@ -19,7 +19,7 @@ Further understanding from him, the production plant is a relatively small size 
 
 ![image2](https://github.com/WongSinWee/Digital_Transformation_Case_Study/blob/main/image/Index_Description.JPG)
 
-## A Successful DT of Ouside In
+## A Successful DT of Ouside-In
 Assa Abloy is a traditional door lock company, the parent company of the Yale lock. To modernised their business into digital age, they acquired a small company, August of smart lock product. The acquired of technologies not only help Assa Abloy transformed their product line into smart locks, also change the business from a sole hardware provider into service provider company. With the smart lock digital connectivity, the company explored into other service like the security and property management.
-![image3](https://github.com/WongSinWee/Digital_Transformation_Case_Study/blob/main/image/DMM.JPG)
+![image3](https://github.com/WongSinWee/Digital_Transformation_Case_Study/blob/main/image/Synergy.JPG)
 
