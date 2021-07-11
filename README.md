@@ -15,5 +15,6 @@ The are many large companies identify the threat of new digital economy, by impl
 ‘’’
 Further understanding from him, the production plant is a relatively small size factory which handling small parts and low volume. This is an example of implementation of technologies without good understanding of the business needs. The management and DT team keep pushing the implementation of technologies where perceived of smart factory, without getting the user(shop floor) involvement. Digitalisation is only about technologies, it’s a thorough business wide re-thinking of organisation, customers, business model etc. Below shown how the digitisation as part of the digitalisation in the Forrester’s The Digital Maturity Model and the detail description of 5 level of maturity to help gauging the route to DT. 
 
-![image1](/image/DMM.jpg)
+![image1](https://github.com/WongSinWee/Digital_Transformation_Case_Study/blob/main/image/DMM.JPG)
 
+![image2](https://github.com/WongSinWee/Digital_Transformation_Case_Study/blob/main/image/DMM.JPG)
